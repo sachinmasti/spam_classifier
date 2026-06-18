@@ -26,7 +26,6 @@
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
-- [Roadmap](#-roadmap)
 - [Author](#-author)
 
 ---
